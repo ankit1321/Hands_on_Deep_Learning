@@ -2,6 +2,6 @@
 
 In this repository I will be adding jupyter notebook files of codes with its html preview files of deep learning which I learnt during my online course of DL through One Fourth Labs.
 
-# Deep_learning_basic 
+## Deep_learning_basic 
 
 It consist the introductory program for deep learning 
